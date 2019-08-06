@@ -1,0 +1,25 @@
+.grey-primary {
+    color: #cccccc;
+    font-size: 12px;
+}
+.vdu p{
+    margin-right: -160px;
+}
+.well-wrap {
+    background: #f9f9f9;
+    border: 1px solid #e1e1e1;
+    border-top: 5px solid #001432;
+    margin-bottom: 5em;
+    font-size: 13px;
+}
+.menu-sidebar-menu-container li{
+    display: block;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 1em 2em;
+    color: #252525;
+    font-size: 15px;
+
+}
+.pagination{
+    font-size: 14px;
+}

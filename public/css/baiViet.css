@@ -1,0 +1,66 @@
+#baiViet{
+  margin: 30px 0;
+}
+#baiViet .content{
+    text-align: justify;
+}
+#baiViet .content img{
+    /* height: 450px; */
+    padding-bottom: 20px;
+}
+#baiViet .content .tag a{
+  color: black;
+}
+#baiViet .content .tag .fa-tags{ 
+  color: #76717b;
+}
+#baiViet .content .tag a:hover{
+  color: #007bff;
+}
+#baiViet .yarpp-related h5{
+  padding: 80px 0 15px 0;
+}
+#baiViet .yarpp-related a{
+    font-size: 17px;
+    font-weight: bold;
+}
+#baiViet .yarpp-related a:hover{
+    color: #599ed5;
+    text-decoration: none;
+}
+#baiViet .fb-cmt .fb-cmt-icon .btn{
+    border-color: #385898;
+    background-color: #385898;
+    font-size: 10px;
+}
+
+
+#baiViet .panel{
+  margin-bottom: 50px;
+}
+#baiViet .list-group-item{
+  background-color: #cccccc12;
+  border-radius: 0;
+}
+#baiViet .list-group-item:first-child {
+  border-top: 5px solid #001432;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  line-height: 3;
+}
+#baiViet .list-group-item:first-child:hover {
+  background-color: #cccccc12;
+  border-bottom: 1px solid #cccccc12;
+}
+#baiViet .list-group-item a{ 
+  color: #007bff;
+  text-decoration: none;
+  color: black;
+}
+#baiViet .list-group-item:hover{
+  background-color: #fff;
+  border-bottom: 1px solid  #599ed5;
+}
+#baiViet .list-group-item:hover a{
+  color: #599ed5;
+}

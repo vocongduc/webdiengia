@@ -1,0 +1,26 @@
+.wrapper-content {
+    margin: 30px 0;
+}
+.post {
+    margin-bottom: 40px;
+}
+.group1{
+    padding: 0;
+}
+ul .page {
+    text-align :center;
+}
+.pagination {
+    justify-content: center;
+}
+.list-group {
+    border-top: 5px solid #001432;
+    /* border-radius: 6px; */
+}
+.page-link {
+    color: #001432;
+}
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
